@@ -196,6 +196,12 @@ FieldSpec.hold_patron_name   = FieldSpec('DA', _('hold patron name'))
 FieldSpec.destination_location = FieldSpec('CT', _('destination location'))
 
 # -----------------------------------------------------------------
+# Non-standard Fields, Evergreen
+# -----------------------------------------------------------------
+FieldSpec.patron_privilege_expiration = FieldSpec('PA', _('privilege expire date'))
+FieldSpec.patron_database_id = FieldSpec('XI', _('patron database id'))
+
+# -----------------------------------------------------------------
 # Message Types
 # -----------------------------------------------------------------
 
