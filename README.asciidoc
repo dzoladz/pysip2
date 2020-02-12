@@ -1,4 +1,4 @@
-= Python3 SIP2 Client Library
+ Python3 SIP2 Client Library
 
 == Running Example Code
 
